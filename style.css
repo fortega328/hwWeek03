@@ -1,0 +1,25 @@
+#aboutMeCard {
+    margin:0 auto
+}
+#donImage {
+    width:250px;
+    float: left;
+    margin: 5px 5px 5px 0px;
+
+}
+#clearfix {
+    overflow:auto; 
+}
+#main {
+    width: 600px;
+    margin: 0 auto; 
+}
+
+#title {
+    color: rgb(47, 128, 128);
+    font-weight:bolder;
+}
+body{
+    background-image: url("https://cdn.wallpapersafari.com/11/10/QSgwDG.jpg");
+    background-size: cover;
+}
